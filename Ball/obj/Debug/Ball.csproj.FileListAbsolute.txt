@@ -1,0 +1,8 @@
+H:\My_pet\Angela\final\Bouncing balls\Ball\obj\Debug\Ball.csproj.AssemblyReference.cache
+H:\My_pet\Angela\final\Bouncing balls\Ball\obj\Debug\Ball.csproj.GenerateResource.cache
+H:\My_pet\Angela\final\Bouncing balls\Ball\obj\Debug\Ball.csproj.CoreCompileInputs.cache
+H:\My_pet\Angela\final\Bouncing balls\Ball\bin\Debug\Ball.dll
+H:\My_pet\Angela\final\Bouncing balls\Ball\bin\Debug\Ball.pdb
+H:\My_pet\Angela\final\Bouncing balls\Ball\obj\Debug\Ball.dll
+H:\My_pet\Angela\final\Bouncing balls\Ball\obj\Debug\Ball.pdb
+H:\My_pet\Angela\final\Bouncing balls\Ball\obj\Debug\Bouncing_balls.Ball.resources

@@ -1,0 +1,14 @@
+H:\My_pet\Angela\final\Bouncing balls\Bouncing balls\bin\Debug\Bouncing balls.exe.config
+H:\My_pet\Angela\final\Bouncing balls\Bouncing balls\bin\Debug\Bouncing balls.exe
+H:\My_pet\Angela\final\Bouncing balls\Bouncing balls\bin\Debug\Bouncing balls.pdb
+H:\My_pet\Angela\final\Bouncing balls\Bouncing balls\obj\Debug\Bouncing balls.csproj.AssemblyReference.cache
+H:\My_pet\Angela\final\Bouncing balls\Bouncing balls\obj\Debug\Bouncing balls.csproj.SuggestedBindingRedirects.cache
+H:\My_pet\Angela\final\Bouncing balls\Bouncing balls\obj\Debug\Bouncing_balls.Form1.resources
+H:\My_pet\Angela\final\Bouncing balls\Bouncing balls\obj\Debug\Bouncing_balls.Properties.Resources.resources
+H:\My_pet\Angela\final\Bouncing balls\Bouncing balls\obj\Debug\Bouncing balls.csproj.GenerateResource.cache
+H:\My_pet\Angela\final\Bouncing balls\Bouncing balls\obj\Debug\Bouncing balls.csproj.CoreCompileInputs.cache
+H:\My_pet\Angela\final\Bouncing balls\Bouncing balls\obj\Debug\Bouncing balls.exe
+H:\My_pet\Angela\final\Bouncing balls\Bouncing balls\obj\Debug\Bouncing balls.pdb
+H:\My_pet\Angela\final\Bouncing balls\Bouncing balls\bin\Debug\Ball.dll
+H:\My_pet\Angela\final\Bouncing balls\Bouncing balls\bin\Debug\Ball.pdb
+H:\My_pet\Angela\final\Bouncing balls\Bouncing balls\obj\Debug\Bouncing balls.csproj.CopyComplete
